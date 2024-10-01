@@ -1,9 +1,9 @@
-<h1>Hi, I'm Arinze! <br/><a href="https://github.com/joshmadakor1">Graphics Designer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">UI/UX Professional</a>,
+<h1>Hi, I'm Arinze! <br/><a href="https://github.com/joshmadakor1">Graphics Designer</a>, <a href="www.linkedin.com/in/arinze-fortune-063a64263/">UI/UX Professional</a>,
 
 <h2>👨‍💻 UI/UX Designer:</h2>
 
 - <b>Mobile App and Web Designs</b>
-  - [Creating Innovative Designs using Figma](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating Innovative Designs using Figma]( https://dribbble.com/Arizonal)
 - <b>Product Design (Adobe Photoshop, Canva, Figma, Flaticon and Adobe XD)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
@@ -23,9 +23,8 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: www.linkedin.com/in/arinze-fortune-063a64263
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
