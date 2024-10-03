@@ -5,7 +5,7 @@
 - <b>Mobile App and Web Designs</b>
   - [Creating Innovative Designs using Figma]( https://dribbble.com/Arizonal)
 - <b>Product Design (Adobe Photoshop, Canva, Figma, Flaticon and Adobe XD)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Image Analysis Middleware](https://www.figma.com/proto/h6mjGiY8JTzR4StWqAW88s/Untitled?node-id=252-1753&node-type=frame&t=kqGHMaBKZEueWqcd-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
 <h2>👨‍💻 Certifications:</h2>
 
